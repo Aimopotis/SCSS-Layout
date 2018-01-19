@@ -1,0 +1,20 @@
+nav{
+  height: 60px;
+  background: $secondary-color;
+  color: #fff;
+  padding: 0px 10px;
+  li{
+    display: inline-block;
+  }
+  a{
+    color: #fff;
+    display: inline-block;
+    padding: 20px;
+  }
+  a:hover {
+    background: $hover-color;
+  }
+}
+
+
+
